@@ -4,7 +4,7 @@
 
 ## Cat.py 
 A cute little cat who is going to run in your computer 
-##mousssssssssse.py 
+## mousssssssssse.py 
 A progamme who is going to shake your window 
 ## mouuuuuuuuuuuuuuuuuse.py 
 A progamme who is going to shake your mouse ( very useful ) 
