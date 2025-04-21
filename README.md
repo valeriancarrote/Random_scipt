@@ -1,7 +1,7 @@
 # Random Script
 
-## ⚠ Disclaimer  
-Every script here is random bullshit: unmaintained, badly coded, and unstable. Don't take any of this too seriously. ⚠
+## ⚠ Disclaimer  ⚠
+Every script here is random bullshit: unmaintained, badly coded, and unstable. Don't take any of this too seriously. 
 
 ## Cat.py  
 A cute little cat that runs on your computer.
