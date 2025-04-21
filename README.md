@@ -1,15 +1,19 @@
-# Random scipt
+# Random Script
 
+## ⚠ Disclaimer  
+Every script here is random bullshit: unmaintained, badly coded, and unstable. Don't take any of this too seriously. ⚠
 
+## Cat.py  
+A cute little cat that runs on your computer.
 
-## Cat.py 
-A cute little cat who is going to run in your computer 
-## mousssssssssse.py 
-A progamme who is going to shake your window 
-## mouuuuuuuuuuuuuuuuuse.py 
-A progamme who is going to shake your mouse ( very useful ) 
-## snake .py 
-A prototype of a script who would allow you to play a snake with you commputers windows
-## window letter.py 
-The letter you type in your keyboard are going to be transcripted in commputers windows    (yeah, I realy like making stuff with window)
+## Mousssssssssse.py  
+A program that shakes your window.
 
+## Mouuuuuuuuuuuuuuuuuse.py  
+A program that shakes your mouse (very useful).
+
+## Snake.py  
+A prototype script that lets you play Snake using your computer's windows.
+
+## Window Letter.py  
+The letters you type on your keyboard will be transcribed into your computer’s windows. (Yeah, I really like making stuff with windows.)
